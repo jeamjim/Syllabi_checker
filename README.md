@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo?color=gray&label=last%20commit" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/jeamjim/Syllabi_checker?color=gray&label=last%20commit" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/status-active-success" alt="Status"/>
   <img src="https://img.shields.io/badge/stack-MERN-green" alt="Stack"/>
   <img src="https://img.shields.io/badge/languages-JavaScript%20%7C%20JSON%20%7C%20Markdown-blue" alt="Languages"/>
